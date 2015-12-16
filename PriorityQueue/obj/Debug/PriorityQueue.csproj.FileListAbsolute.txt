@@ -1,0 +1,6 @@
+D:\Code\Tests\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+D:\Code\Tests\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.exe
+D:\Code\Tests\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+D:\Code\Tests\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+D:\Code\Tests\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.exe
+D:\Code\Tests\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.pdb
